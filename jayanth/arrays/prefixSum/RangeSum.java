@@ -27,6 +27,12 @@ B = [[0, 3], [1, 2]]
 
 Output 1:
 [10, 5]
+
+Example Explanation
+
+Explanation 1:
+The sum of all elements of A[0 ... 3] = 1 + 2 + 3 + 4 = 10.
+The sum of all elements of A[1 ... 2] = 2 + 3 = 5.
 */
 public class RangeSum {
     public static void main(String[] args){

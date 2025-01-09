@@ -1,5 +1,36 @@
 package jayanth.arrays.prefixSum;
 
+//question:
+
+/*
+Given an array, arr[] of size N, 
+the task is to find the count of array indices such that removing an element from these indices makes the sum of even-indexed and odd-indexed array elements equal.
+
+Problem Constraints
+1 <= N <= 105
+-105 <= A[i] <= 105
+Sum of all elements of A <= 109
+
+Input Format
+First argument contains an array A of integers of size N
+
+Output Format
+Return the count of array indices such that removing an element from these indices makes the sum of even-indexed and odd-indexed array elements equal.
+
+Example Input
+Input 1:
+A = [2, 1, 6, 4]
+
+Example Output
+Output 1:
+1
+
+Explanation 1:
+Removing arr[1] from the array modifies arr[] to { 2, 6, 4 } such that, arr[0] + arr[2] = arr[1]. 
+Therefore, the required output is 1. 
+
+*/
+
 public class SpecialIndex {
 
     public static void main(String[] args){

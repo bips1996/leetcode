@@ -28,6 +28,12 @@ package jayanth.arrays.prefixSum;
 
  Output 1:
  [1, 1, 2]
+
+ Explanation
+ For Input 1:
+ The subarray for the first query is [1, 2, 3] (index 0 to 2) which contains 1 even number.
+ The subarray for the second query is [3, 4, 5] (index 2 to 4) which contains 1 even number.
+ The subarray for the third query is [2, 3, 4, 5] (index 1 to 4) which contains 2 even numbers.
  
 */
 
