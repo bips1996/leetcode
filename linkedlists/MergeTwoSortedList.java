@@ -1,4 +1,4 @@
-package LinkedList;
+package linkedlists;
 
 public class MergeTwoSortedList {
     public static void main(String[] args) {

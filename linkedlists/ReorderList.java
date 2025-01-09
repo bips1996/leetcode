@@ -1,4 +1,4 @@
-package LinkedList;
+package linkedlists;
 //https://leetcode.com/problems/reorder-list/submissions/1501592406/
 
 public class ReorderList {

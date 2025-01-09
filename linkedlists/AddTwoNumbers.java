@@ -1,4 +1,4 @@
-package LinkedList;
+package linkedlists;
 
 //https://leetcode.com/problems/add-two-numbers/
 
